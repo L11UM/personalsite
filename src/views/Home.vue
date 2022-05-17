@@ -2,10 +2,10 @@
   <div class="container">
     <div id="name-container">
       <img id="avatar" src="./../assets/images/av.png" alt="avatar" />
-      <h1>Spencer Woo</h1>
+      <h1>LiiUM</h1>
     </div>
     <div class="title-desc-container">
-      <a id="github" href="https://github.com/spencerwooo" target="_blank" rel="noopener noreferrer"
+      <a id="github" href="https://github.com/L11UM" target="_blank" rel="noopener noreferrer"
         ><img class="title-font" src="./../assets/images/github.svg" />Developer</a
       >
       <span>/</span>
@@ -20,65 +20,40 @@
     <div class="article">
       <h2>WHO AM I</h2>
       <p>
-        I'm <i>Spencer Woo</i> with the ID <i>spencerwoo</i>. Some other variations:
-        <a href="https://twitter.com/realSpencerWoo" target="_blank" rel="noopener noreferrer">@realSpencerWoo</a> /
+        I'm <i>LiiUM</i> or<i>Liam</i>. Some other variations:
+        <a href="https://twitter.com/L3AWM" target="_blank" rel="noopener noreferrer">@L3AWM</a> /
         <a href="https://weibo.com/spencerwoo" target="_blank" rel="noopener noreferrer">@SpencerWoo</a> /
-        <a href="https://github.com/spencerwooo" target="_blank" rel="noopener noreferrer">@spencerwooo</a>. You may
-        know me from GitHub / Jike / SSPAI or other places. Yes, those are also me.
+        <a href="https://github.com/spencerwooo" target="_blank" rel="noopener noreferrer">@spencerwooo</a>.
       </p>
 
-      <h2>Academics</h2>
+      <h2>Work In Progress</h2>
       <ul>
-        <li>
-          🙇 Postgraduate student at UofG (🇬🇧
-          <a href="https://www.gla.ac.uk/" target="_blank" rel="noopener noreferrer">University of Glasgow</a>), 1/2021
-          entry,
-          <i
-            ><a
-              href="https://www.gla.ac.uk/postgraduate/taught/computingsciencemsc/"
-              target="_blank"
-              rel="noopener noreferrer"
-              >MSc in CS</a
-            ></i
-          >.
+        <li><a href="https://www.instagram.com/iosociety/" target="_blank">io.society </a>
+          
+           
         </li>
         <li>
           🍭 BIT Alumni (🇨🇳
           <a href="http://www.bit.edu.cn/" target="_blank" rel="noopener noreferrer">Beijing Institute of Technology</a
           >), <i>BSc in CS</i>.
         </li>
-        <li>🔭 <b>Fields of interest:</b> Adversarial examples / AI vulnerability.</li>
+        <li>🔭 <b>Fields of interest:</b> Neural Networks//Design//Software Development//Cybersecurity</li>
       </ul>
 
-      <h2>Devices</h2>
+      <h2>Tools</h2>
       <ul>
-        <li>⚫ ThinkPad X1 Carbon 7th Gen</li>
-        <li>🔵 iPhone 12 / iPad Air 3 / AirPods Pro</li>
+        <li>⚫ Custom PC:1080Ti/Ryzen 5 3600</li>
+        <li>🔵 Macbook Air M1 Chip with 8-Core CPU and 7-Core GPU</li>
       </ul>
 
-      <h2>How can we trust you!</h2>
-      <p>
-        I have verified my identity with a GPG signature which proves my ownership of this domain. (See the cryptography
-        proof here:
-        <a
-          href="http://keybase.io/spencerwoo/sigchain#abb6f40f8c804e7411e91544b7cdb8e011df8e6f84dcd0b709f848f85dc6248d0f"
-          target="_blank"
-          rel="noopener noreferrer"
-          >Keybase - claimed ownership of <b>spencerwoo.com</b> via dns</a
-        >.) In other words, <i>I AM LEGIT HERE.</i>
-      </p>
-      <p>
-        I have my GPG public key hosted on
-        <a href="http://keybase.io/spencerwoo" target="_blank" rel="noopener noreferrer">Keybase - spencerwoo</a>. You
-        can pull and import my GPG public key with:
-      </p>
-      <pre>curl https://keybase.io/spencerwoo/pgp_keys.asc | gpg --import</pre>
-
+ 
+     
+       
       <h2>Contacts</h2>
       <ul>
         <li>
           <b>Email：</b>
-          <a href="mailto:spencer.wushangbo@gmail.com">spencer.wushangbo#gmail.com</a><i> (Preferred)</i>
+          <a href="mailto:liambt20@gmail.com">liambt20#gmail.com</a><i> (Preferred)</i>
         </li>
       </ul>
     </div>
