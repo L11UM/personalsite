@@ -1,7 +1,7 @@
 <template>
   <div class="container">
     <div id="name-container">
-      <img id="avatar" src="./../assets/images/av.png" alt="avatar" width="500" height="500"/>
+      <img src="./../assets/images/av.png" width="500" height="500"/>
     </div>
     <div class="title-desc-container">
       <a id="github" href="https://github.com/L11UM" target="_blank" rel="noopener noreferrer"
