@@ -26,7 +26,7 @@
 
       <h2>Work In Progress:</h2>
       <ul>
-        <li><em><a href="instagram.com/iosociety">io.society</a></em></li>
+        <li><em><a href="instagram.com/iosociety" target="_blank">io.society</a></em></li>
         
         
           
