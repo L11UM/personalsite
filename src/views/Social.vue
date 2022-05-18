@@ -26,7 +26,7 @@
           suffix="followers"
           icon="twitter.png"
           :loading="twitter.loading"
-          link="https://twitter.com/L3AWM"
+          link="/?source=twitter&queryKey=L3AWM"
         />
         <statCard
           statTitle="GitHub"
@@ -34,7 +34,7 @@
           suffix="followers"
           icon="github.png"
           :loading="github.loading"
-          link="https://github.com/L11UM"
+          link="/?source=github&queryKey=L11UM"
         />
       </div>
       <div class="row-container">
