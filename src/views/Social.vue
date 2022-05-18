@@ -105,7 +105,6 @@
 
 <script>
 import statCard from '@/components/StatCard.vue'
-
 export default {
   components: {
     statCard,
@@ -127,7 +126,6 @@ export default {
   mounted() {
     const apiUrl = 'https://api.spencerwoo.com/substats'
     const rssUrl = 'https://blog.spencerwoo.com/posts/index.xml'
-
     const rssAxios = this.axios.get(`${apiUrl}/?source=feedly|inoreader|feedsPub&queryKey=${rssUrl}`)
     const sspaiAxios = this.axios.get(`${apiUrl}/?source=sspai&queryKey=spencerwoo`)
     const jikeAxios = this.axios.get(`${apiUrl}/?source=jikeFollower&queryKey=4DDA0425-FB41-4188-89E4-952CA15E3C5E`)
@@ -138,7 +136,6 @@ export default {
     const githubAxios = this.axios.get(`${apiUrl}/?source=github&queryKey=spencerwooo`)
     const steamGamesAxios = this.axios.get(`${apiUrl}/?source=steamGames&queryKey=76561198336249957`)
     const telegramAxios = this.axios.get(`${apiUrl}/?source=telegram&queryKey=realSpencerWoo`)
-
     rssAxios.then(r => {
       this.rss = { data: r.data.data.totalSubs, loading: false }
     })
@@ -182,7 +179,6 @@ export default {
   align-items: stretch;
   align-content: center;
 }
-
 .row-container {
   display: flex;
   flex-direction: row;
@@ -192,15 +188,12 @@ export default {
   align-content: stretch;
   margin: 15px 0px;
 }
-
 .row-container .statCard:last-child {
   margin-left: 30px;
 }
-
 .row-container .statCard {
   flex: 1;
 }
-
 @media screen and (max-width: 760px) {
   .row-container {
     display: flex;
@@ -210,13 +203,11 @@ export default {
     align-items: stretch;
     align-content: center;
   }
-
   .row-container .statCard:last-child {
     margin-left: 0px;
     margin-top: 30px;
   }
 }
-
 #substats-footer {
   color: #666666;
   text-align: left;
