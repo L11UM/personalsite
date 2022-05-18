@@ -26,7 +26,7 @@
 
       <h2>Work In Progress:</h2>
       <ul>
-        <li> <em>io.society</em> </li>
+        <li><em><a href="instagram.com/iosociety">io.society</a></em></li>
         
         
           
@@ -43,7 +43,7 @@
       <h2>Contacts</h2>
       <ul>
         <li>
-          <b>Email：</b>
+          <b>Email</b>
           <a href="mailto:liambt20@gmail.com">liambt20#gmail.com</a><i> (Preferred)</i>
         </li>
       </ul>
