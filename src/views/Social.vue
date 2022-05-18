@@ -52,7 +52,7 @@
           suffix="games"
           icon="steam.png"
           :loading="steamGames.loading"
-          link="https://steamcommunity.com/id/yobropandaxd/"
+          link="https://steamcommunity.com/id/liampoggers/"
         />
       </div>
     </div>
